@@ -12,7 +12,7 @@ Ideas:
 - Chinese Tinder.
 - Sudo Timer with a schedule and everything.
 - .NET application that shows profit loss, with graphs.
-- System for clocking in and out.
+- System for clocking in and out. (Versitile for other industries, uses a set chip to allow the access for clock in.)
 - Tasks Tracker, To-Do list.
 - Custom Twitch or Youtube Viewer.
 
